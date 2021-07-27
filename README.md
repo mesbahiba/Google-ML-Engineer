@@ -27,14 +27,16 @@ There are 9 Courses in this Professional Certificate Specialization as follows:
 - [x] [__Google Cloud Platform Big Data and Machine Learning Fundamentals__]
 
 This course introduces participants to the big data capabilities of Google Cloud. Through a combination of presentations, demos, and hands-on labs, participants get an overview of Google Cloud and a detailed view of the data processing and machine learning capabilities. This course showcases the ease, flexibility, and power of big data solutions on Google Cloud.
-
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-1.png" width=60% height=60%>
 
 - [x] [__How Google does Machine Learning__]
 
 What is machine learning, and what kinds of problems can it solve? Google thinks about machine learning slightly differently -- of being about logic, rather than just data. We talk about why such a framing is useful for data scientists when thinking about building a pipeline of machine learning models. 
 
 Then, we discuss the five phases of converting a candidate use case to be driven by machine learning, and consider why it is important the phases not be skipped. We end with a recognition of the biases that machine learning can amplify and how to recognize this.
-
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-2.png" width=60% height=60%>
 
 
 - [X] [__Launching into Machine Learnings__ ]
@@ -47,7 +49,8 @@ Optimize and evaluate models using loss functions and performance metrics
 Mitigate common problems that arise in machine learning
 Create repeatable and scalable training, evaluation, and test datasets
 
-
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-3.png" width=60% height=60%>
 
 - [x] [__Introduction to TensorFlow__]
 
@@ -55,17 +58,21 @@ This course is focused on using the flexibility and “ease  of use” of Tensor
 
 We will introduce you to the Keras Sequential API and the Keras Functional API to show you how to create deep learning models.  We’ll talk about activation functions, loss, and optimization.  Our Jupyter Notebooks hands-on labs offer you the opportunity to build basic linear regression, basic logistic regression, and advanced logistic regression machine learning models.  You will learn how to train, deploy, and productionalize machine learning models at scale with Cloud AI Platform.
 
-
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-4.png" width=60% height=60%>
 
 - [X] [__Feature Engineering__]
 
 Want to know how you can improve the accuracy of your ML models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering where we will discuss good vs bad features and how you can preprocess and transform them for optimal use in your models.
-
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-5.png" width=60% height=60%>
 
 - [x] [__Art and Science of Machine Learning__]
 
 Welcome to the Art and Science of machine learning.  This course is delivered in 6 modules. The course covers the essential skills of ML intuition, good judgment and experimentation needed to finely tune and optimize ML models for the best performance.  You will learn how to generalize your model using Regularization techniques and about the effects of hyperparameters such as batch size and learning rate on  model performance.  We’ll cover some of the most common model optimization algorithms and show you how to specify an optimization method in your TensorFlow code. 
 
+ <p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-6.png" width=60% height=60%>
 
 - [x] [__Production Machine Learning Systems__]
 
@@ -83,7 +90,8 @@ Data Scientists looking to quickly go from machine learning prototype to product
 Software Engineers looking to develop Machine Learning Engineering skills.
 ML Engineers who want to adopt Google Cloud for their ML production projects.
 
-
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-7.png" width=60% height=60%>
 - [x] [__ML Pipelines on Google Cloud__]
 
 In this course, you will be learning from ML Engineers and Trainers who work with the state-of-the-art development of ML pipelines here at Google Cloud.  The first few modules will cover about TensorFlow Extended (or TFX), which is Google’s production machine learning platform based on TensorFlow for management of ML pipelines and metadata. You will learn about pipeline components and pipeline orchestration with TFX. You will also learn how you can automate your pipeline through continuous integration and continuous deployment, and how to manage ML metadata.
@@ -95,6 +103,7 @@ Please take note that this is an advanced level course and to get the most out o
 You have a good ML background and have been creating/deploying ML pipelines
 You have completed the courses in the ML with Tensorflow on GCP specialization (or at least a few courses)
 You have completed the MLOps Fundamentals course.
-
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-8.png" width=60% height=60%>
 ---
 <p>&copy; 2021 Md. Mesbahul Islam Chowdhury </p>
