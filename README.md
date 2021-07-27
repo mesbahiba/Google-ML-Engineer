@@ -4,7 +4,7 @@
 
 
 
-# Google Machine Learning Engineer Professional  <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# Google Machine Learning Engineer Professional  <img src="https://github.com/mesbahiba/Google-Analytics-Professional/blob/main/Google.pngg" align="right" width="120" />
 
 ## 📍 About this Professional Certificate
 This program provides the skills to advance my career and training to support preparation for the industry-recognized Google Cloud Professional Machine Learning Engineer certification. This professional certificate incorporates hands-on labs using Qwiklabs platform.These hands on components let me apply the skills learned. Projects incorporate Google Cloud Platform products used within Qwiklabs. You will gain practical hands-on experience with the concepts explained throughout the modules.
@@ -13,8 +13,7 @@ This program provides the skills to advance my career and training to support pr
 
 ## 🥇 Professional Certificate
 
-<p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/8H6UT8SHWYPD-1.png" width=80% height=80%>
+
 
 ---
 
