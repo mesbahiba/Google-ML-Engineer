@@ -80,6 +80,8 @@ In the course, we will dive into the components and best practices of a high-per
 
 Prerequisites: Basic SQL, familiarity with Python and TensorFlow
 
+<p align="center">
+<img src="https://github.com/mesbahiba/Google-ML-Engineer/blob/main/Certificates/7.png" width=60% height=60%>
 
 - [x] [__MLOps (Machine Learning Operations) Fundamentals__]
 
@@ -91,8 +93,9 @@ Software Engineers looking to develop Machine Learning Engineering skills.
 ML Engineers who want to adopt Google Cloud for their ML production projects.
 
 <p align="center">
-<img src="https://github.com/mesbahiba/Google-ML-Engineer/blob/main/Certificates/7.png" width=60% height=60%>
-- [x] [__ML Pipelines on Google Cloud__]
+<img src="https://github.com/mesbahiba/Google-ML-Engineer/blob/main/Certificates/8.png" width=60% height=60%>
+
+ - [x] [__ML Pipelines on Google Cloud__]
 
 In this course, you will be learning from ML Engineers and Trainers who work with the state-of-the-art development of ML pipelines here at Google Cloud.  The first few modules will cover about TensorFlow Extended (or TFX), which is Google’s production machine learning platform based on TensorFlow for management of ML pipelines and metadata. You will learn about pipeline components and pipeline orchestration with TFX. You will also learn how you can automate your pipeline through continuous integration and continuous deployment, and how to manage ML metadata.
 
@@ -103,7 +106,6 @@ Please take note that this is an advanced level course and to get the most out o
 You have a good ML background and have been creating/deploying ML pipelines
 You have completed the courses in the ML with Tensorflow on GCP specialization (or at least a few courses)
 You have completed the MLOps Fundamentals course.
-<p align="center">
-<img src="https://github.com/mesbahiba/Google-ML-Engineer/blob/main/Certificates/8.png" width=60% height=60%>
+
 ---
 <p>&copy; 2021 Md. Mesbahul Islam Chowdhury </p>
