@@ -50,7 +50,7 @@ Mitigate common problems that arise in machine learning
 Create repeatable and scalable training, evaluation, and test datasets
 
 <p align="center">
-<img src="https://github.com/mesbahiba/Google-ML-Engineer/blob/main/Certificates/3.png" width=60% height=60%>
+<img src="https://github.com/mesbahiba/Google-ML-Engineer/blob/main/Certificates/9.png" width=60% height=60%>
 
 - [x] [__Introduction to TensorFlow__]
 
