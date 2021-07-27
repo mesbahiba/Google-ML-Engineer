@@ -4,7 +4,7 @@
 
 
 
-# Google Machine Learning Engineer Professional  <img src="https://github.com/mesbahiba/Google-Analytics-Professional/blob/main/Google.pngg" align="right" width="120" />
+# Google Machine Learning Engineer Professional  <img src="https://github.com/mesbahiba/Google-Analytics-Professional/blob/main/Google.png" align="right" width="120" />
 
 ## 📍 About this Professional Certificate
 This program provides the skills to advance my career and training to support preparation for the industry-recognized Google Cloud Professional Machine Learning Engineer certification. This professional certificate incorporates hands-on labs using Qwiklabs platform.These hands on components let me apply the skills learned. Projects incorporate Google Cloud Platform products used within Qwiklabs. You will gain practical hands-on experience with the concepts explained throughout the modules.
@@ -60,6 +60,7 @@ Want to know how you can improve the accuracy of your ML models? What about how 
 
 
 - [x] [__Art and Science of Machine Learning__]
+
 Welcome to the Art and Science of machine learning.  This course is delivered in 6 modules. The course covers the essential skills of ML intuition, good judgment and experimentation needed to finely tune and optimize ML models for the best performance.  You will learn how to generalize your model using Regularization techniques and about the effects of hyperparameters such as batch size and learning rate on  model performance.  We’ll cover some of the most common model optimization algorithms and show you how to specify an optimization method in your TensorFlow code. 
 
 
